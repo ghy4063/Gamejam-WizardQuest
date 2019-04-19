@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Ragdollcontroller.cs">
+    <Files>
+      <File FileName="Assets\scripts\InputController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\pawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\human Pawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Pickup.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PickupHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Health.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Spin.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Weapon.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\test.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\WeaponSpread.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Broomgun.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ChaseTheplayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\AIController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Ragdollcontroller.cs" Line="58" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
